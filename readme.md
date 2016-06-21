@@ -1,3 +1,5 @@
+# We are Friday. Are you?
+
 We've put together this test to help us when hiring new Engineers. It is deliberately open-ended, and we don’t expect you to spend longer than a couple of hours.
 
 ## Aim
